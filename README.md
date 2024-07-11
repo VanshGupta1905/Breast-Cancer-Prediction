@@ -58,19 +58,21 @@ This is an ensemble method, meaning it combines multiple weak learners (like dec
 
 ### We then explored the potential of neural networks for breast cancer detection:
 
-### Baseline Model: A simple neural network with no regularization or dropout.
+## Baseline Model: A simple neural network with no regularization or dropout.
 ### Model Summary
 ![image](https://github.com/VanshGupta1905/Breast-Cancer-Prediction/assets/97848559/a71c6514-5a14-4347-8886-f742eeb9cba6)
 ### Model Performance
 ![image](https://github.com/VanshGupta1905/Breast-Cancer-Prediction/assets/97848559/0b86854e-8f3c-4a5e-b09d-4ffb6fc2dc5e)
 
 
-Regularized Model: Added L1/L2 regularization and dropout to prevent overfitting.
+## Regularized Model: Added L1/L2 regularization and dropout to prevent overfitting.
 ### Model Summary
 ![image](https://github.com/VanshGupta1905/Breast-Cancer-Prediction/assets/97848559/863faa11-9692-45e7-9360-d1dd6945b441)
 ### Model Performance
 ![image](https://github.com/VanshGupta1905/Breast-Cancer-Prediction/assets/97848559/6461bb6e-ec17-412c-8e31-48b75163d32c)
-Deep Model: Increased the number of layers, dropout rate, and regularization for potentially better generalization.
+
+
+## Deep Model: Increased the number of layers, dropout rate, and regularization for potentially better generalization.
 
 ### Model Summary 
 ![image](https://github.com/VanshGupta1905/Breast-Cancer-Prediction/assets/97848559/e229806a-8cb3-4030-8298-b0f4d5ee0ea6)
